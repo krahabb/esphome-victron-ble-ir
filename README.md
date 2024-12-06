@@ -6,3 +6,6 @@ The protocol is somehow [officially documented](https://communityarchive.victron
 
 ## How to use
 Beside the usual EspHome platforms configuration (an ESP32 with BLE is needed) follow the sample [config](https://github.com/krahabb/esphome-victron-ble-ir/blob/main/components/m3_victron_ble_ir/m3_victron_ble_ir_example.yaml)
+
+## Notes
+This is a 'replica' of the same component as developed on https://github.com/krahabb/esphome. This repository is just an extraction in order to raise its public status.
