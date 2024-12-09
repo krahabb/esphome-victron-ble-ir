@@ -1,4 +1,5 @@
 external_components:
+  # source: github://krahabb/esphome # development repo
   source: github://krahabb/esphome-victron-ble-ir
 
 # esp32_ble_tracker is needed to listen for BLE advertisements
